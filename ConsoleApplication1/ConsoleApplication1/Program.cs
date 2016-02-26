@@ -11,19 +11,14 @@ namespace ConsoleApplication1
         {
             int input;
             int sum = 0;
-            for (int i = 1; i > 0; i++)
+            do
             {
                 Console.WriteLine("Enter a number");
                 input = Convert.ToInt32(Console.ReadLine());
-                 while(input == 999)
-                {
-                    break;
-                }
-
-                 sum = sum + input;
+            } while (input != 999);
+           
                  Console.WriteLine(sum);
               
-            }
         }
     }
 }

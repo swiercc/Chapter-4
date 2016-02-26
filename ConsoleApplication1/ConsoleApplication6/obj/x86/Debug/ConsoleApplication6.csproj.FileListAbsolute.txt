@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\Chapter-4\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Eahscs\Documents\GitHub\Chapter-4\ConsoleApplication1\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Eahscs\Documents\GitHub\Chapter-4\ConsoleApplication1\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.exe
+C:\Users\Eahscs\Documents\GitHub\Chapter-4\ConsoleApplication1\ConsoleApplication6\obj\x86\Debug\ConsoleApplication6.pdb
